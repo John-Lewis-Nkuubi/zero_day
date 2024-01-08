@@ -1,0 +1,4 @@
+What does the command uname print when you run it without any option?
+The uname command, when run without any options, prints information about the operating system.
+
+Output; the system name, kernel release, kernel version, and machine hardware name
